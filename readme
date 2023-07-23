@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=jztwpsIzEGc
+
+ calculating performance metrics like accuracy, recall, F1 score, AUC, and ROC.
+ https://blog.devgenius.io/image-classification-on-unbalanced-dataset-python-mnist-dataset-ba3fc4360c7f
+ batch load of data
+ datastructure is tf.data.dataset
+ https://www.tensorflow.org/api_docs/python/tf/data/Dataset
